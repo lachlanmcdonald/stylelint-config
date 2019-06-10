@@ -1,14 +1,12 @@
 {
-  "name": "stylelint-opinionated",
-  "version": "1.0.0",
-  "description": "",
-  "main": "stylelint.config.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "name": "@lachlanmcdonald/stylelint",
+  "version": "0.1.0",
+  "main": "index.js",
   "devDependencies": {
+    "@lachlanmcdonald/eslint-config-eslint": "^0.1.0",
+    "eslint": "^5.16.0"
+  },
+  "dependencies": {
     "stylelint-config-recommended": "^2.2.0"
   }
 }
