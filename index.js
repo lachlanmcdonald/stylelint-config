@@ -1,13 +1,12 @@
-// Constants are used to make it easier to grok
-// the rules below
-const E = {
-	severity: 'error',
-};
+// Constants are used to make it easier to grok the rules below
 const N = 'never';
 const NML = 'never-multi-line';
 const A = 'always';
 const AML = 'always-multi-line';
 const ASL = 'always-single-line';
+const E = {
+	severity: 'error',
+};
 
 module.exports = {
 	extends: 'stylelint-config-recommended',

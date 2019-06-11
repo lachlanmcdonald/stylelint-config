@@ -2,11 +2,24 @@
   "name": "@lachlanmcdonald/stylelint",
   "version": "0.1.0",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
   "devDependencies": {
-    "@lachlanmcdonald/eslint-config-eslint": "^0.1.0",
+    "@lachlanmcdonald/eslint-config-eslint": "^0.1.1",
     "eslint": "^5.16.0"
   },
   "dependencies": {
     "stylelint-config-recommended": "^2.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lachlanmcdonald/stylelint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lachlanmcdonald/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/lachlanmcdonald/stylelint-config#readme"
 }
