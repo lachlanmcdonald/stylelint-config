@@ -1,5 +1,6 @@
-# @lachlanmcdonald/stylelint-config
+# @lachlanmcdonald/styelint-config
 
-[![npm version](https://badge.fury.io/js/%40lachlanmcdonald%2Fstylelint-config.svg)](https://badge.fury.io/js/%40lachlanmcdonald%2Fstylelint-config) ![License](https://img.shields.io/github/license/lachlanmcdonald/stylelint-config.svg)
+[![npm version](https://badge.fury.io/js/%40lachlanmcdonald%2Fstyelint-config.svg)](https://badge.fury.io/js/%40lachlanmcdonald%2Fstyelint-config)
+![License](https://img.shields.io/github/license/lachlanmcdonald/styelint-config.svg)
 
 Opinionated [Stylelint](https://github.com/stylelint/stylelint) configuration.
