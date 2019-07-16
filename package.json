@@ -8,8 +8,8 @@
     "README.md"
   ],
   "devDependencies": {
-    "@lachlanmcdonald/eslint-config-eslint": "^0.1.1",
-    "eslint": "^5.16.0"
+    "@lachlanmcdonald/eslint-config-eslint": "^0.1.2",
+    "eslint": "^6.0.1"
   },
   "dependencies": {
     "stylelint-config-recommended": "^2.2.0"
