@@ -1,6 +1,7 @@
 {
   "name": "@lachlanmcdonald/stylelint-config",
   "version": "0.1.2",
+  "license": "MIT",
   "main": "index.js",
   "files": [
     "index.js",
