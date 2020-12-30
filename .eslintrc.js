@@ -4,6 +4,6 @@ module.exports = {
 		es6: true,
 	},
 	extends: [
-		"@lachlanmcdonald/eslint-config-eslint"
-	]
-}
+		'@lachlanmcdonald/eslint-config-eslint',
+	],
+};
