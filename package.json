@@ -9,11 +9,11 @@
     "README.md"
   ],
   "devDependencies": {
-    "@lachlanmcdonald/eslint-config-eslint": "^0.4.0",
-    "eslint": "^7.16.0"
+    "@lachlanmcdonald/eslint-config-eslint": "^0.4.1",
+    "eslint": "^8.16.0"
   },
   "dependencies": {
-    "stylelint-config-recommended": "^3.0.0"
+    "stylelint-config-recommended": "^7.0.0"
   },
   "repository": {
     "type": "git",
